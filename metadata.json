@@ -1,0 +1,8 @@
+{
+  "name": "Remix Snowdrift: Cozy 3D Plow",
+  "description": "A cozy 3D isometric snow-plowing game with truck upgrades, combo multipliers, snowfall physics, and procedural synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
